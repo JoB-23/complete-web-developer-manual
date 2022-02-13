@@ -123,7 +123,7 @@ Submarine Cable Map:
 	*	`method`, `action`
 *	`<input>`:
 	*	`type`= `"text"`, `"submit"`, `"reset"`, `"email"`, `"date"`, `"radio"`, `"password"`
-	*	`required`, `value`, `name`, `min`
+	*	`required`, `value`, `name`, `minlength`
 *	dropdown `<select>`
 	*	option `<option>`
 *	comment `<!-- -->`
